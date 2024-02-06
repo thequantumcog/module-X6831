@@ -5,4 +5,5 @@ rm -rf *infinix* *sony* *alldocube* *asus* *blackview* *bq-jeice* *duoqin* *fair
 cd /system_root/system/system_ext/apex/
 ls | awk '/vndk\.v[0-9][0-9]/ && !/vndk\.v31/' | xargs rm
 rm -rf com.android.vndk.current/lib*
+cd /
 mount -o ro,remount /system_root
