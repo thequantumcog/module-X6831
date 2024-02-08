@@ -1,7 +1,7 @@
 id=hot30-gsi-fix
 name=GSI Fixes for Hot30
-version=v1.3
-versionCode=13
+version=v1.4
+versionCode=14
 author=ardrag0n
 description= Special Thanks to @Spencer_D for making gcam libs
 updateJson=https://github.com/ardrag0n/magisk-module-infinix-hot30/releases/latest/download/update.json
