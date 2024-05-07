@@ -1,1 +1,3 @@
-- Get more accurate location of punch hole 
+* BREAKING Changes *
+- Remove useless flags
+- Add custom font
