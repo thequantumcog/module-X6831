@@ -1,4 +1,4 @@
-Updated Overlays to Target Android 15
-Enable Dynamic Fps by default
-Enable Binder threads by default
-Disable Voice Call in route by default
+* Updated Overlays to Target Android 15
+* Enable Dynamic Fps by default
+* Enable Binder threads by default
+* Disable Voice Call in route by default
